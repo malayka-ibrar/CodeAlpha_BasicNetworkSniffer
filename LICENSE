@@ -1,21 +1,31 @@
-MIT License
 
-Copyright (c) 2026 malayka-ibrar
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### **Step 6: Important Notes & Ethics**
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+⚠️ **Legal and Ethical Considerations:**
+1. **Only use on networks you own or have explicit permission to monitor**
+2. **Do not use to intercept sensitive data or passwords**
+3. **Respect privacy laws and regulations**
+4. **For educational purposes only**
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+---
+
+### **Step 7: Submission Checklist**
+
+1. ✅ Complete the Python script
+2. ✅ Create GitHub repository: `CodeAlpha_BasicNetworkSniffer`
+3. ✅ Add README, requirements.txt, and documentation
+4. ✅ Test the sniffer (capture some test packets)
+5. ✅ Create LinkedIn post with explanation video
+6. ✅ Submit via CodeAlpha submission form
+
+---
+
+### **Need Help?**
+If you encounter issues:
+1. **Permission errors**: Run as administrator/root
+2. **No packets captured**: Check your network interface name
+3. **Scapy installation issues**: Use `pip install --pre scapy[complete]`
+
+This complete implementation meets all Task 1 requirements and provides a solid foundation for understanding network traffic analysis. Good luck with your CodeAlpha internship! 🚀
